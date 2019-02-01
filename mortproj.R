@@ -1,6 +1,6 @@
 # Mortality forecasting based on Hyndman et. al (2011) and Spedicato (2013).
 # Code replicated from "Mortality projection with demography and lifecontingencies packages"
-# adpated to spanish population.
+# adapated to spanish population.
 
 rm(list=ls())
 library(demography)
@@ -8,8 +8,9 @@ library(lifecontingencies)
 library(forecast)
 
 # Load data from HMD
-spainDemo<-hmd.mx(country="ESP", username="jrcarobarrera@gmail.com",
-password = "doctorado2018", label = "Spain") 
+# In our case: Spain
+spainDemo<-hmd.mx(country="COUNTRY ABBREVIATION", username="username",
+password = "password", label = "Country") 
 
 #load(file="mortalityDatasets.RData")
 
