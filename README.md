@@ -1,8 +1,6 @@
-# Mortality projections
-Mortality Projections with demography and lifecontigencies R packages
+# Mortality projections with R packages 'demography' and 'lifecontigencies'
 
-Based on the R packages demography, developed by Rob J. Hyndman, Heather Booth, Leonie Tickle, and John Maindonald
-(2011)  and lifecontingencies, developed by Giorgio A. Spedicato, (2013) we show mortality and simulate it for Spain with 
+As one of the main sections in the Ph.D thesis I am working in and based on the R packages demography, developed by Rob J. Hyndman, Heather Booth, Leonie Tickle, and John Maindonald (2011)  and lifecontingencies, developed by Giorgio A. Spedicato, (2013) we show mortality and simulate it for Spain with 
 data-set available from Human Mortality Database (HMD).
 
 Technicalities are omitted for the sake of simplicity but the reference with the corresponding code can be found here 
@@ -23,3 +21,4 @@ Spanish data confirms that mortality is falling at all ages with a different beh
 In order to fit Lee - Carter model lca function can be used and we apply it 
 
 ![mortesp3](https://user-images.githubusercontent.com/45860181/52143349-82368000-265b-11e9-8cf6-66d883d6ab87.png)
+
