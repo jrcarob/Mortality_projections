@@ -21,3 +21,5 @@ Now, following the same procedure that in the packages from Hyndman and Spedicat
 Spanish data confirms that mortality is falling at all ages with a different behaviour according to different ages.
 
 In order to fit Lee - Carter model lca function can be used and we apply it 
+
+![mortesp3](https://user-images.githubusercontent.com/45860181/52143349-82368000-265b-11e9-8cf6-66d883d6ab87.png)
