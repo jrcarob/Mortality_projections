@@ -16,7 +16,8 @@ Several behaviour are shown respectively for male, female and total population.
 
 Now, following the same procedure that in the packages from Hyndman and Spedicato, we show the patterns but in time:
 
+![mortesp2](https://user-images.githubusercontent.com/45860181/52142831-1869a680-265a-11e9-8bf1-62849230b635.png)
 
+Spanish data confirms that mortality is falling at all ages with a different behaviour according to different ages.
 
-spanish data confirms that mortality is falling at all ages with a different behaviour according to different ages.
 To fit Lee - Carter model (without going through logaritms) lca function can be used. Lee-Carter is here applied separately between male, female and total population and by considering a maximum age equal to 100.
