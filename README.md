@@ -20,4 +20,4 @@ Now, following the same procedure that in the packages from Hyndman and Spedicat
 
 Spanish data confirms that mortality is falling at all ages with a different behaviour according to different ages.
 
-To fit Lee - Carter model (without going through logaritms) lca function can be used. Lee-Carter is here applied separately between male, female and total population and by considering a maximum age equal to 100.
+In order to fit Lee - Carter model lca function can be used and we apply it 
