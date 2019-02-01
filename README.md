@@ -22,3 +22,4 @@ In order to fit Lee - Carter model lca function can be used and we apply it
 
 ![mortesp3](https://user-images.githubusercontent.com/45860181/52143349-82368000-265b-11e9-8cf6-66d883d6ab87.png)
 
+![mortesp4](https://user-images.githubusercontent.com/45860181/52143504-f40ec980-265b-11e9-970f-9d526a78e84a.png)
