@@ -25,7 +25,6 @@ Male and female trend have a similar pattern . As we can expect, the mortality g
 As expected, the estimator of 'kt' has a decreasing trend with the increment of time.
 
 Values of predicted 'kt' rescaled to zero in the last observed year (2016) are also computed.
-
 ![mortesp5](https://user-images.githubusercontent.com/45860181/52143766-9dee5600-265c-11e9-9d95-3d91c0d4f6aa.png)
 
 Finally, the derivation of the full pattern of rates where past and forecasted rates are here binded in the same matrix. 
