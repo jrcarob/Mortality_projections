@@ -1,4 +1,4 @@
-# Mortality projections with R packages 'demography' and 'lifecontigencies'
+# Spanish mortality projections with R packages 'demography' and 'lifecontigencies'
 
 As one of the main sections in the Ph.D thesis I am working in and based on the R packages 'demography', developed by Rob J. Hyndman, Heather Booth, Leonie Tickle, and John Maindonald (2011)  and 'lifecontingencies', developed by Giorgio A. Spedicato, (2013) we show mortality and simulate it for Spain with data-set available from Human Mortality Database (HMD) with a total set from 1908 to 2016.
 
@@ -24,7 +24,7 @@ In order to fit Lee - Carter model, the R function 'lca' can be used to estimate
 Male and female trend have a similar pattern . As we can expect, the mortality grows with the age (ax pattern). However, is significantly remarkable the decreasing in some age-range. This behavior sistematically repeats as it can be seen in the figure and further investigation must be done in order to explain such trend.
 As expected, the estimator of 'kt' has a decreasing trend with the increment of time.
 
-The predicted values of kt rescaled to zero in the last observed year (2016) are also computed.
+Values of predicted 'kt' rescaled to zero in the last observed year (2016) are also computed.
 
 ![mortesp5](https://user-images.githubusercontent.com/45860181/52143766-9dee5600-265c-11e9-9d95-3d91c0d4f6aa.png)
 
