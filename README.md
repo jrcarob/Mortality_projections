@@ -27,7 +27,6 @@ As expected, the estimator of 'kt' has a decreasing trend with the increment of 
 Values of predicted 'kt' rescaled to zero in the last observed year (2016) are also computed.
 ![mortesp5](https://user-images.githubusercontent.com/45860181/52143766-9dee5600-265c-11e9-9d95-3d91c0d4f6aa.png)
 
-Finally, the derivation of the full pattern of rates where past and forecasted rates are here binded in the same matrix. 
-We report here the pattern of past and forecasted rates according to different population for people aged 65. The expected improvement is clearly visible in the Figure.
+Finally, the forecast rates are showed in the figures below where past and and forecasted rates are simulated according to different population for people aged 65.
 
 ![mortesp4](https://user-images.githubusercontent.com/45860181/52143504-f40ec980-265b-11e9-970f-9d526a78e84a.png)
